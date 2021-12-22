@@ -1,0 +1,38 @@
+HC04_VC40: Percent Margin of Error; MARITAL STATUS - Males 15 years and over - Widowed
+HC04_VC46: Percent Margin of Error; MARITAL STATUS - Females 15 years and over - Separated
+HC04_VC65: Percent Margin of Error; GRANDPARENTS - Number of grandparents living with own grandchildren under 18 years - Years responsible for grandchildren - Less than 1 year
+HC04_VC66: Percent Margin of Error; GRANDPARENTS - Number of grandparents living with own grandchildren under 18 years - Years responsible for grandchildren - 1 or 2 years
+HC04_VC86: Percent Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over - Less than 9th grade
+HC04_VC109: Percent Margin of Error; DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION - Under 18 years - With a disability
+HC04_VC122: Percent Margin of Error; RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the U.S. - Same county
+HC04_VC125: Percent Margin of Error; RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the U.S. - Different county - Different state
+HC04_VC131: Percent Margin of Error; PLACE OF BIRTH - Total population - Native
+HC04_VC132: Percent Margin of Error; PLACE OF BIRTH - Total population - Native - Born in United States
+HC04_VC136: Percent Margin of Error; PLACE OF BIRTH - Total population - Foreign born
+HC04_VC173: Percent Margin of Error; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Language other than English - Speak English less than "very well"
+HC04_VC174: Percent Margin of Error; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Spanish
+HC04_VC175: Percent Margin of Error; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Spanish - Speak English less than "very well"
+HC04_VC176: Percent Margin of Error; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Other Indo-European languages
+HC04_VC177: Percent Margin of Error; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Other Indo-European languages - Speak English less than "very well"
+HC04_VC178: Percent Margin of Error; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Asian and Pacific Islander languages
+HC04_VC179: Percent Margin of Error; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Asian and Pacific Islander languages - Speak English less than "very well"
+HC04_VC180: Percent Margin of Error; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Other languages
+HC04_VC181: Percent Margin of Error; LANGUAGE SPOKEN AT HOME - Population 5 years and over - Other languages - Speak English less than "very well"
+HC04_VC186: Percent Margin of Error; ANCESTRY - Total population - American
+HC04_VC187: Percent Margin of Error; ANCESTRY - Total population - Arab
+HC04_VC188: Percent Margin of Error; ANCESTRY - Total population - Czech
+HC04_VC189: Percent Margin of Error; ANCESTRY - Total population - Danish
+HC04_VC190: Percent Margin of Error; ANCESTRY - Total population - Dutch
+HC04_VC196: Percent Margin of Error; ANCESTRY - Total population - Hungarian
+HC04_VC198: Percent Margin of Error; ANCESTRY - Total population - Italian
+HC04_VC201: Percent Margin of Error; ANCESTRY - Total population - Polish
+HC04_VC203: Percent Margin of Error; ANCESTRY - Total population - Russian
+HC04_VC204: Percent Margin of Error; ANCESTRY - Total population - Scotch-Irish
+HC04_VC205: Percent Margin of Error; ANCESTRY - Total population - Scottish
+HC04_VC206: Percent Margin of Error; ANCESTRY - Total population - Slovak
+HC04_VC207: Percent Margin of Error; ANCESTRY - Total population - Subsaharan African
+HC04_VC208: Percent Margin of Error; ANCESTRY - Total population - Swedish
+HC04_VC209: Percent Margin of Error; ANCESTRY - Total population - Swiss
+HC04_VC210: Percent Margin of Error; ANCESTRY - Total population - Ukrainian
+HC04_VC211: Percent Margin of Error; ANCESTRY - Total population - Welsh
+HC04_VC212: Percent Margin of Error; ANCESTRY - Total population - West Indian (excluding Hispanic origin groups)
