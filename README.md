@@ -1,7 +1,7 @@
 # GOPS: A Machine Learning Framework for Opioid Abuse Analysis
 
 [![Code style: black][black-badge]][black-link]
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?)](#contributors-)
 
 ![](./assets/Slide1.jpeg)
 
