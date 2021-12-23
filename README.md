@@ -3,7 +3,7 @@
 [![Code style: black][black-badge]][black-link]
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?)](#contributors-)
 
-![](./assets/Slide1.jpeg)
+<img src="https://github.com/Sapphirine/202112-38-GOPS/blob/main/assets/Slide1.jpeg?raw=true" width="400"/>
 
 The project proposed a framework that integrates various machine learning models to predict and analyze this public safety problem, including to identify areas of high risk for future opioid outbreaks and to find out the relation to several common heart diseases. Through our work, we attempt to help governments and medical institution to identify possible strategies to address the opioid crisis.
 
