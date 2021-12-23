@@ -17,13 +17,13 @@ The project proposed a framework that integrates various machine learning models
 
 - assets: the assets we used for the paper and demo.
 
-- prediction_linear_regression: county-level linear regression models to prediction the growth;
+- **prediction_linear_regression**: county-level linear regression models to prediction the growth;
 
-- prediction_socio_demo: important features extraction and several machine learning regression models that uses socio-demographic features;
+- **prediction_socio_demo**: important features extraction and several machine learning regression models that uses socio-demographic features;
 
-- prediction_migriation: use GNNs to predict the opioids reports quantity that based on the civil migration rate;
+- **prediction_migriation**: use GNNs to predict the opioids reports quantity that based on the civil migration rate;
 
-- heart_disease_correlation: correlation analysis with coronary and stroke.
+- **heart_disease_correlation**: correlation analysis with coronary and stroke.
 
 ## Citation
 If you find this repository helpful for your research, please cite this repository:
