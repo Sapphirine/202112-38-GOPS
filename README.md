@@ -45,7 +45,8 @@ We would like to acknowledge the contributors that made this project possible ([
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## Citation
-If you find this repository helpful for your research, please cite this repository:
+
+Paperwork is [here](./assets/GPOS_paper.pdf). If you find this work helpful for your research, please cite this repository:
 
 ```
 @misc{erl,
