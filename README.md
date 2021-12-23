@@ -26,9 +26,8 @@ The project proposed a framework that integrates various machine learning models
 - heart_disease_correlation: correlation analysis with coronary and stroke.
 
 ## Citation
+If you find this repository helpful for your research, please cite this repository:
 
-## Citation:
-To cite this repository:
 ```
 @misc{erl,
   author = {Liu, Shuo and Li, Yu and Chen, Yujing},
