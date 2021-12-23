@@ -25,6 +25,25 @@ The project proposed a framework that integrates various machine learning models
 
 - **heart_disease_correlation**: correlation analysis with coronary and stroke.
 
+## Contributors
+
+We would like to acknowledge the contributors that made this project possible ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/LovelyBuggies"><img src="https://avatars.githubusercontent.com/u/29083689?v=4?s=80" width="80px;" alt=""/><br /><sub><b>Shuo Liu</b></sub></a><br /><a href="https://github.com/Sapphirine/202112-38-GOPS/commits?author=LovelyBuggies" title="Code">💻</a> <a href="https://github.com/Sapphirine/202112-38-GOPS/issues?q=author%3ALovelyBuggies" title="Bug reports">🐛</a> <a href="#ideas-LovelyBuggies" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/YuelLi"><img src="https://avatars.githubusercontent.com/u/23408316?v=4?s=80" width="80px;" alt=""/><br /><sub><b>Yu Li</b></sub></a><br /><a href="https:https://github.com/Sapphirine/202112-38-GOPS/commits?author=YuelLi" title="Code">💻</a> <a href="https://github.com/Sapphirine/202112-38-GOPS/issues?q=author%3AYuelLi" title="Bug reports">🐛</a> </td>
+    <td align="center"><a href="https://github.com/yc3851"><img src="https://avatars.githubusercontent.com/u/78283093?v=4?s=80" width="80px;" alt=""/><br /><sub><b>Yujing Chen</b></sub></a><br /><a href="https://github.com/Sapphirine/202112-38-GOPS/issues?q=author%3Ayc3851" title="Bug reports">🐛</a> <a href="#ideas-yc3851" title="Ideas, Planning, & Feedback">🤔</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
 ## Citation
 If you find this repository helpful for your research, please cite this repository:
 
