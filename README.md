@@ -25,5 +25,10 @@ The project proposed a framework that integrates various machine learning models
 
 - heart_disease_correlation: correlation analysis with coronary and stroke.
 
+## Talk
+
+- 2021-12-22: [Analysis and Inﬂuence of Opioid Crisis
+](https://youtu.be/xQCiBp78hCs)
+
 [black-badge]:              https://img.shields.io/badge/code%20style-black-000000.svg
 [black-link]:               https://github.com/psf/black
