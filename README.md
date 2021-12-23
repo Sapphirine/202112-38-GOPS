@@ -13,7 +13,7 @@ The project proposed a framework that integrates various machine learning models
 - We find the groups who are susceptible to opioids in terms of socio-demography. By extracting strong relevance features, the number of opioids based on the composition of the society is predicted. Based on this, we enhance this model by taking the migration rate into consideration.
 - We analyze the effects of different opioids on common heart diseases.
 
-## Directory
+## File Structure
 
 - assets: the assets we used for the paper and demo.
 
