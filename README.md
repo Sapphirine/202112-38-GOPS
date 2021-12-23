@@ -25,6 +25,21 @@ The project proposed a framework that integrates various machine learning models
 
 - heart_disease_correlation: correlation analysis with coronary and stroke.
 
+## Citation
+
+## Citation:
+To cite this repository:
+```
+@misc{erl,
+  author = {Liu, Shuo and Li, Yu and Chen, Yujing},
+  title = {{GOPS}: A Machine Learning Framework for Opioid Abuse Analysis},
+  year = {2021},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/Sapphirine/202112-38-GOPS}},
+}
+```
+
 ## Talk
 
 - 2021-12-22: [Analysis and Inﬂuence of Opioid Crisis
